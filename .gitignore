@@ -1,0 +1,17 @@
+env
+venv
+db.sqlite3
+*.db
+db.*
+.vscode/
+.vscode
+static
+**__pycache__
+./*/__pycache__
+**/__pycache__
+./**/__pycache__/
+./*/*/__pycache__/
+./*/*/*/__pycache__/
+./*/*/__pycache__/
+media
+volumes
