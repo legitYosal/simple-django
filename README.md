@@ -11,3 +11,4 @@ minimal and simple tutorial Django project.
   python3 manage.py migrate
   python3 manage.py runserver
 ```
+### then go to /post/post/ and joy!!!
